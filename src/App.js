@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/login/oauth/authorize/?client_id=168651"
           target="_blank"
           rel="noopener noreferrer"
         >
